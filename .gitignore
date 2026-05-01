@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+
+# Model files
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+
+# Logs
+*.log
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+.next/
+.vercel/
+.netlify/
+
+# OS
+.DS_Store
+Thumbs.db
